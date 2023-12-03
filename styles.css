@@ -1,1 +1,43 @@
-h1{color:red}
+body{background-color:#0A0908;
+margin:2em}
+h1{color:#931621;
+font-size: 3.5em}
+h1{font-family: Courier;
+    border:.5px #357266 solid;
+    width:1200px;
+    padding:.5em;
+    border-radius:1.25em;
+    background-color: #357266;
+}
+h2{color:#3626A7;
+border:1px #357266 solid;
+    width:700px;
+    padding:1.25em;
+    border-radius:1.25em;
+    background-color: #357266;}
+h2{font-family: Comic Sans MS;}
+p{background-color: #A3BBAD}
+li{color:floralwhite;
+font-size:2em;}
+li a {color:#931621;
+    font-family: Comic Sans MS;
+    margin:1.5em;
+    text-decoration: none;
+    border:.1px #357266 solid;
+    width:800px;
+    padding:.1em;
+    text-align: center;
+    background-color: #357266;}
+a{text-decoration: none;}
+.source, a source{color:#0D0106;
+display: block;
+text-align: center;
+font-family: Bradley Hand;}
+a.start{border:1px solid #931621;
+background-color:#357266;
+padding: .3em;
+font-size: 2em;
+    text-align: center;
+color:#931621}
+
+
